@@ -2,6 +2,4 @@
 
 # 2019 MFC CLASS
 
-* Andong
-* National
-* University
+J.H.Kim
